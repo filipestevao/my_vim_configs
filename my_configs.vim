@@ -1,5 +1,6 @@
 " Line number
 set number relativenumber
+highlight LineNr ctermfg=darkgrey
 
 " Copy and paste to clipboard
 set clipboard=unnamedplus
