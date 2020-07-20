@@ -10,5 +10,5 @@ sh ~/.vim_runtime/install_awesome_vimrc.sh
 
 To add my vim configurations:
 ```
-wget -P ~/.vim_runtime https://raw.githubusercontent.com/filipestevao/my_vim_configs/master/my_configs.vim
+cd ~/.vim_runtime && curl -LO https://raw.githubusercontent.com/filipestevao/my_vim_configs/master/my_configs.vim
 ```
